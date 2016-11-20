@@ -13,4 +13,4 @@ The bot should now post at 6AM every day; as long there is a constant terminal p
 
 ## Changelog
 v1.0.1: Initial Release; with comments  
-v1.0: _Original Version._  
+v1.0.0: _Original Version._  
